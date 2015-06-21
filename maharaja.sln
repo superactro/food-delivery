@@ -1,0 +1,128 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B52B6548-F71B-47C1-AE6D-16E0E6B3BD05}"
+	ProjectSection(SolutionItems) = preProject
+		about-me.html = about-me.html
+		about-us-basic.html = about-us-basic.html
+		about-us.html = about-us.html
+		blog-full-width.html = blog-full-width.html
+		blog-large-image.html = blog-large-image.html
+		blog-medium-image.html = blog-medium-image.html
+		blog-post.html = blog-post.html
+		blog-timeline.html = blog-timeline.html
+		contact-us-advanced.php = contact-us-advanced.php
+		contact-us.html = contact-us.html
+		feature-admin-charts.html = feature-admin-charts.html
+		feature-admin-forms-advanced.html = feature-admin-forms-advanced.html
+		feature-admin-forms-basic.html = feature-admin-forms-basic.html
+		feature-admin-forms-code-editor.html = feature-admin-forms-code-editor.html
+		feature-admin-forms-wizard.html = feature-admin-forms-wizard.html
+		feature-admin-tables-advanced.html = feature-admin-tables-advanced.html
+		feature-admin-tables-ajax.html = feature-admin-tables-ajax.html
+		feature-admin-tables-editable.html = feature-admin-tables-editable.html
+		feature-admin-tables-responsive.html = feature-admin-tables-responsive.html
+		feature-animations.html = feature-animations.html
+		feature-grid-system.html = feature-grid-system.html
+		feature-icons.html = feature-icons.html
+		feature-pricing-tables.html = feature-pricing-tables.html
+		feature-typography.html = feature-typography.html
+		headers-overview.html = headers-overview.html
+		index-1.html = index-1.html
+		index-2.html = index-2.html
+		index-3.html = index-3.html
+		index-4.html = index-4.html
+		index-5.html = index-5.html
+		index-footer-2.html = index-footer-2.html
+		index-footer-3.html = index-footer-3.html
+		index-footer-4.html = index-footer-4.html
+		index-footer-5.html = index-footer-5.html
+		index-footer-6.html = index-footer-6.html
+		index-footer-7.html = index-footer-7.html
+		index-header-10.html = index-header-10.html
+		index-header-11.html = index-header-11.html
+		index-header-12.html = index-header-12.html
+		index-header-13.html = index-header-13.html
+		index-header-14.html = index-header-14.html
+		index-header-2.html = index-header-2.html
+		index-header-3.html = index-header-3.html
+		index-header-4.html = index-header-4.html
+		index-header-5.html = index-header-5.html
+		index-header-6.html = index-header-6.html
+		index-header-7.html = index-header-7.html
+		index-header-8.html = index-header-8.html
+		index-header-9.html = index-header-9.html
+		index-header-logged.html = index-header-logged.html
+		index-header-signin.html = index-header-signin.html
+		index-one-page.html = index-one-page.html
+		index-slider-2.html = index-slider-2.html
+		index.html = index.html
+		page-404.html = page-404.html
+		page-careers.html = page-careers.html
+		page-coming-soon.html = page-coming-soon.html
+		page-custom-header.html = page-custom-header.html
+		page-faq.html = page-faq.html
+		page-full-width.html = page-full-width.html
+		page-left-sidebar.html = page-left-sidebar.html
+		page-login.html = page-login.html
+		page-maintenance-mode.html = page-maintenance-mode.html
+		page-our-office.html = page-our-office.html
+		page-right-sidebar.html = page-right-sidebar.html
+		page-search-results.html = page-search-results.html
+		page-services.html = page-services.html
+		page-team.html = page-team.html
+		portfolio-2-columns.html = portfolio-2-columns.html
+		portfolio-3-columns.html = portfolio-3-columns.html
+		portfolio-4-columns.html = portfolio-4-columns.html
+		portfolio-full-width.html = portfolio-full-width.html
+		portfolio-lightbox.html = portfolio-lightbox.html
+		portfolio-single-project.html = portfolio-single-project.html
+		portfolio-timeline.html = portfolio-timeline.html
+		shop-cart.html = shop-cart.html
+		shop-checkout.html = shop-checkout.html
+		shop-full-width.html = shop-full-width.html
+		shop-login.html = shop-login.html
+		shop-product-full-width.html = shop-product-full-width.html
+		shop-product-sidebar.html = shop-product-sidebar.html
+		shop-sidebar.html = shop-sidebar.html
+		shortcodes.html = shortcodes.html
+		sitemap.html = sitemap.html
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "htdocs", ".", "{69E4175E-0447-47FA-B986-01D204CF4D9C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50322"
+		Debug.AspNetCompiler.PhysicalPath = "..\htdocs\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50322\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50322"
+		Release.AspNetCompiler.PhysicalPath = "..\htdocs\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50322\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50322"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E4175E-0447-47FA-B986-01D204CF4D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E4175E-0447-47FA-B986-01D204CF4D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69E4175E-0447-47FA-B986-01D204CF4D9C} = {B52B6548-F71B-47C1-AE6D-16E0E6B3BD05}
+	EndGlobalSection
+EndGlobal

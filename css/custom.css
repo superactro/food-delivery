@@ -1,0 +1,97 @@
+/* Add here all your CSS customizations */
+
+a {
+    color: #EA7412;
+}
+
+.phoneNum {
+    color: #000 !important;
+    font-size: 22px !important;
+    font-weight: 800;
+    margin-right: 15px !important;
+}
+
+deco {
+    background-color: rgba(234, 122, 28, 0.67);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+}
+
+.tp-caption {
+    text-shadow: 2px 2px #ff0000;
+}
+
+#revolutionSlider > ul > li:nth-child(1) > div.tp-caption.main-label.sft.stb.start {
+    text-shadow: 2px 2px #ff0000;
+}
+
+#revolutionSlider > ul > li.tp-revslider-slidesli.active-revslide.current-sr-slide-visible > div.tp-caption.main-label.sft.stb.start {
+    text-shadow: 2px 2px #ff0000;
+}
+
+.home-intro p em {
+  color: #EA7412;
+}
+
+.btn-primary {
+    border: none;
+    background: #EA7412;
+}
+
+.btn-primary:hover {
+    background: #C06111;
+}
+
+.truck {
+    font-size: 13rem;
+    color: #fff;
+}
+
+#header {
+    border-top: none;
+}
+
+.navActive {
+    background: #C06111;
+    color: #fff;
+}
+
+.logo {
+    position: relative;
+    top: 5px;
+}
+
+.home-concept strong {
+  color: #000000;
+}
+
+.bold800 {
+    font-size: 34px !important;
+    font-weight: 800 !important;
+}
+
+.w800 {
+    font-weight: 800;
+}
+
+.bold {
+    font-weight: 800 !important;
+}
+
+.inverted, #footer .footer-ribbon  {
+    background: #EA7412;
+}
+
+#footer .footer-ribbon:before {
+  border-right-color: #714521;
+  border-left-color: #714521;
+}
+
+#footer .container .row > div {
+  margin-bottom: 40px;
+}
+
+#footer .footer-copyright p {
+  margin-top: 20px;
+}
