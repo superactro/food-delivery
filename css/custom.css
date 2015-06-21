@@ -95,3 +95,7 @@ deco {
 #footer .footer-copyright p {
   margin-top: 20px;
 }
+
+h3, h4, h5 {
+  color: #000;
+}
