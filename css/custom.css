@@ -99,3 +99,7 @@ deco {
 h3, h4, h5 {
   color: #000;
 }
+
+a:hover {
+    color: #EA7412;
+}
