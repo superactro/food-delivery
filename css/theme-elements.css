@@ -2986,7 +2986,7 @@ html .scroll-to-top {
 	opacity: 0;
 	padding: 13px 10px 35px;
 	position: fixed;
-	right: 10px;
+	left: 10px;
 	text-align: center;
 	text-decoration: none;
 	min-width: 49px;
