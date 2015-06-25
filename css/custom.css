@@ -103,3 +103,22 @@ h3, h4, h5 {
 a:hover {
     color: #EA7412;
 }
+
+body > div > div > div > div:nth-child(2) > div.col-md-5 > ul.list-unstyled.push-top {
+    color: #000;
+}
+
+strong {
+    color: #000;
+}
+
+.welcomeText {
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 2.6em;
+    margin-bottom: 0;
+}
+
+.white {
+    color: #ffffff !important;
+}
