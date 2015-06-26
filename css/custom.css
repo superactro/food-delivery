@@ -112,6 +112,10 @@ strong {
     color: #000;
 }
 
+footer strong {
+    color: #777;
+}
+
 .welcomeText {
     color: #fff;
     text-transform: uppercase;
@@ -121,4 +125,18 @@ strong {
 
 .white {
     color: #ffffff !important;
+}
+
+.text2Col {
+   -webkit-column-count: 2;
+      -moz-column-count: 2;
+           column-count: 2;
+
+   -webkit-column-gap: 20px;
+      -moz-column-gap: 20px;
+           column-gap: 20px;
+}
+
+.main-text {
+    font-size: 18px;
 }
