@@ -1632,7 +1632,7 @@ aside ul.nav-list > li > a {
 
 /* Home Slider - Revolution Slider */
 .slider-container {
-	background: #171717;
+	background: #fff;
 	overflow: hidden;
 	padding: 0;
 	position: relative;
@@ -1658,10 +1658,10 @@ aside ul.nav-list > li > a {
 
 .slider-container .main-label {
 	color: #FFF;
-	font-size: 62px;
+	font-size: 42px;
 	line-height: 62px;
 	font-weight: 800;
-	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.43);
 }
 
 .slider-container .featured-label {

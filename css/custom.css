@@ -12,23 +12,18 @@ a {
 }
 
 deco {
-    background-color: rgba(234, 122, 28, 0.67);
     padding: 5px;
     margin: 5px;
     border-radius: 6px;
 }
 
 .tp-caption {
-    text-shadow: 2px 2px #ff0000;
+    background: rgba(139, 139, 139, 0.47);
+    padding: 10px;
+    margin: 5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.43);
 }
 
-#revolutionSlider > ul > li:nth-child(1) > div.tp-caption.main-label.sft.stb.start {
-    text-shadow: 2px 2px #ff0000;
-}
-
-#revolutionSlider > ul > li.tp-revslider-slidesli.active-revslide.current-sr-slide-visible > div.tp-caption.main-label.sft.stb.start {
-    text-shadow: 2px 2px #ff0000;
-}
 
 .home-intro p em {
   color: #EA7412;
@@ -44,7 +39,7 @@ deco {
 }
 
 .truck {
-    font-size: 8rem;
+    font-size: 63px;
     color: #fff;
 }
 
@@ -139,4 +134,7 @@ footer strong {
 
 .main-text {
     font-size: 18px;
+}
+
+.home-intro {
 }
