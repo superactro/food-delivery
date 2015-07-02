@@ -139,3 +139,7 @@ footer strong {
 
 .home-intro {
 }
+
+#mc_embed_signup form {
+    padding: 0 !important;
+}
